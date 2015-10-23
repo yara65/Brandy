@@ -1,0 +1,499 @@
+
+@media only screen and (max-width: 800px) {
+
+.words
+{
+    font-size: 18px;
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+    text-align: center;
+    word-spacing: normal;
+
+    opacity: .8;
+}
+
+.image-col
+{
+    display:block;
+
+    margin-top: 0;
+    padding-left: 0px;
+
+    text-align: center;
+}
+
+.colum
+{
+    font-size: 25px;
+
+    display: block;
+
+    width: 30%;
+    padding-top: 40px;
+    padding-left: 0px;
+
+    text-align: left;
+
+    color: black;
+    /*border:  solid 5px black;*/
+}
+
+.any-photo,.any-photo1,.any-photo2,.any-photo3,.any-photo4,.any-photo5,.any-photo6,.any-photo7 {
+
+	display: inline-table;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 50%;
+	/*border: solid 1px red;*/
+	
+}
+
+.team
+{
+    display: block;
+
+    width: 100%;
+
+    text-align: center;
+}
+
+
+.el-team {
+
+    display: inline-block;
+    /*overflow: auto;*/
+
+    width: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+
+    cursor: pointer;
+    text-align: center;
+}
+
+.feat-colum
+{
+    display: block;
+
+    padding-top: 0px;
+    padding-bottom: 50px;
+
+    text-align: center;
+    word-spacing: 10px;
+}
+
+.colum
+{
+    font-size: 25px;
+
+    display: block;
+
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 100;
+
+    text-align: center;
+
+    color: black;
+    /*border:  solid 5px black;*/
+}
+
+.text
+{
+    font-size: 15px;
+
+    display: inline-block;
+
+    padding-top: 0;
+    padding-bottom: 30px;
+    padding-left: 10px;
+
+    text-align: center;
+    word-spacing: 1px;
+}
+
+.user
+{
+    width: 280px;
+}
+
+
+.send-Message
+{
+    display: block;
+    width: auto;
+    padding-left: 310px;
+}
+
+.buttonMessage
+{
+    line-height: 60px;
+    width: 365px;
+    
+    height: 60px;
+}
+
+.icon-right
+{
+    display: block;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.icon-blok {
+	text-align: center;
+	padding-right: 10px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.text-left
+{
+    display: inline-table;
+
+    padding-top: 30px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+
+    text-align: left;
+}
+
+.footer-left{
+	display: block;
+	width: 100%%;
+	text-align: left;
+	padding-top: 80px;
+	padding-left: 25px;
+	line-height:25px;
+}
+
+.subscribe{
+	display: block;
+	text-align: left;
+	padding-left: 25px;
+	width: 100%;
+}
+
+.explore{
+	display: block;
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 30px;
+	width: 100%;
+
+}
+
+.support{
+
+	display: block;
+	width: 100%;
+	text-align: left;
+	padding-left: 25px;
+}
+
+ 
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 400px) {
+
+.heade
+{
+	display: none;
+}
+
+.words
+{
+    font-size: 17px;
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+    text-align: center;
+    word-spacing: normal;
+
+    opacity: .8;
+}
+
+.feat-colum
+{
+    display: block;
+
+    padding-top: 0;
+    padding-bottom: 50px;
+
+    text-align: center;
+    word-spacing: 10px;
+}
+
+
+.image-col
+{
+    display:block;
+
+    margin-top: 0;
+    padding-left: 0px;
+
+    text-align: center;
+}
+
+.colum
+{
+    font-size: 25px;
+
+    display: block;
+
+    width: 30%;
+    padding-top: 40px;
+    padding-left: 0px;
+
+    text-align: left;
+
+    color: black;
+    /*border:  solid 5px black;*/
+}
+
+.photo {
+	width: 100%;
+	display: block;
+	padding-top: 20px;
+}
+
+.any-photo,.any-photo1,.any-photo2,.any-photo3,.any-photo4,.any-photo5,.any-photo6,.any-photo7{
+
+	display: block;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	border: none;
+}
+   
+.menu{
+	display: none;
+	
+}
+
+#meet{
+
+	font-size: 40px;
+	display: inline;
+	
+}
+
+.team1{
+	display: inline;
+	font-size: 40px;
+	font-weight: bold;
+	
+	
+}
+
+.creativ{
+	font-size:25px;
+}
+
+.professionals{
+	font-size:15px;
+}
+
+.colum{
+
+	padding-top: 40px;
+	display: block;
+	text-align: center;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	font-size: 25px;
+	color: black;
+}
+
+.image-col{
+	display: inline;
+	text-align: left;
+	padding-left: 0px;
+	margin-top: 0px;
+	}
+
+.text
+	{
+	display: inline-block;
+	font-size: 15px;
+	text-align: left;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	padding-left: 107px;
+	word-spacing: 1px;
+}
+
+.team
+{	text-align: center;
+	display: block;
+
+    width: 100%;
+
+}
+
+.el-team{
+	display: block;
+	width: 90%;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.el-team img{
+
+	/*width: auto;*/
+	height: 350px;
+}
+
+.any-sings{
+	
+	display: block;
+	width: 100%;
+	padding-top: 30px;
+	padding-right: 0px;
+	color: white;
+	font-size: 120%;
+	text-align: center;
+	
+	
+}
+
+.photo {
+	width: 100%;
+	display: block;
+	padding-top: 20px;
+}
+
+.any-photo{
+
+	display: block;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	border: none;
+}
+
+
+.text-left
+{
+    display: block;
+
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 22px;
+
+    text-align: left;
+}
+
+.user{
+	width: 130px;
+}
+
+.send-Message
+{
+    display: block;
+
+    padding-left: 150px;
+    padding-bottom: 20px;
+}
+
+.buttonMessage
+{
+    line-height: 60px;
+    width: 155px;
+    
+    height: 60px;
+}
+
+.icon-blok {
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.footer-left{
+	display: block;
+	width: 100%%;
+	text-align: left;
+	padding-top: 80px;
+	padding-left: 25px;
+	line-height:25px;
+}
+
+.subscribe{
+	display: block;
+	text-align: left;
+	padding-left: 25px;
+	width: 100%;
+}
+
+.explore{
+	display: block;
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 30px;
+	width: 100%;
+
+}
+
+.support{
+
+	display: block;
+	width: 100%;
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 50px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
