@@ -14,10 +14,17 @@ a {
   text-decoration: none; }
 
 #branly {
-  background-image: url("../image/bg.png"); }
+  background-image: url("../image/bg.png"); 
+}
+
+header{
+/*position: fixed;*/
+}
 
 .header1 {
+  background-color:blue;
   position: fixed;
+  width: 100%;
   height: 60px; }
 
 .content1 {
@@ -32,24 +39,50 @@ a {
 .menu {
   display: inline-block;
   text-align: center;
-  padding-left: 450px; }
+  padding-left: 450px; 
+}
 
 .menu-row {
-  display: inline-block; }
+  display: inline-block;
+  padding-left: 20px;
+
+   }
+
+
+.feedback {
+  background-color: blue;
+  display: none;
+  width: 0px;
+  height: 0px;
+}  
 
 .cont {
-  padding-top: 400px;
+  padding-top: 250px;
+  padding-bottom: 200px;
   text-align: center;
-  color: white; }
+  color: white; 
+}
 
 #meet {
-  font-size: 40px;
-  display: inline; }
+  font-size: 80px;
+  display: inline; 
+}
 
 .team1 {
   display: inline;
-  font-size: 40px;
-  font-weight: bold; }
+  font-size: 80px;
+  font-weight: bold; 
+}
+
+.creativ {
+  font-size: 70px;
+
+}
+
+.professionals{
+  font-size: 30px;
+
+}
 
 .icone {
   text-align: center;
@@ -61,8 +94,13 @@ a {
   padding-top: 145px;
   text-align: center; }
 
+.heart
+{
+  text-align: center;
+}
+
 .words {
-  font-size: 28px;
+  font-size: 26px;
   padding-top: 20px;
   padding-bottom: 30px;
   text-align: center;
@@ -74,6 +112,7 @@ hr {
   align: center; }
 
 .feat-colum {
+  float: left;
   display: block;
   padding-top: 0px;
   padding-bottom: 50px;
@@ -81,17 +120,24 @@ hr {
   word-spacing: 10px; }
 
 .colum {
-  font-size: 25px;
+  /*float: left;*/
+  font-size: 20px;
   display: inline-block;
-  width: 100%;
+  width: 25%;
   padding-top: 40px;
-  padding-left: 100;
-  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: left;
   color: black;
-  /*border:  solid 5px black;*/ }
+  /*border:  solid 5px black; */
+}
+
+colum img{
+  
+}
 
 .text {
-  font-size: 15px;
+  font-size: 20px;
   display: inline-block;
   padding-top: 0;
   padding-bottom: 30px;
@@ -129,13 +175,18 @@ hr {
   height: 10px;
   cursor: pointer; }
 
-#conteiner1 {
-  text-align: center; }
+#conteiner2 {
+   width: 100%;
+  padding-top: 75px;
+  text-align: center; 
+
+}
 
 .table {
   display: block;
   padding-right: 30px;
-  padding-left: 30px; }
+  padding-left: 30px; 
+ text-align: center;}
 
 .table-one {
   background-color: green;
@@ -175,24 +226,33 @@ hr {
 
 .photo {
   width: 100%;
-  text-align: left;
+  /*height: 100%;*/
+  text-align: center;
   display: block;
   padding-top: 20px;
-  font-size: 0px; }
+  font-size: 0px;
+ /*border:  solid 5px black; */
+}
 
 .any-photo, .any-photo1, .any-photo2, .any-photo3, .any-photo4, .any-photo5, .any-photo6, .any-photo7 {
   display: inline-block;
   padding-left: 0px;
   padding-right: 0px;
   width: 25%;
-  border: none; }
-  .any-photo img, .any-photo1 img, .any-photo2 img, .any-photo3 img, .any-photo4 img, .any-photo5 img, .any-photo6 img, .any-photo7 img {
-    display: inline-block;
-    padding-left: 0px;
-    padding-right: 0px;
-    width: 100%;
-    height: 300px;
-    border: none; }
+  
+  /*border: solid 5px black; */
+}
+
+  .any-photo img, .any-photo1 img, .any-photo2 img, .any-photo3 img,  .any-photo4 img, .any-photo5 img,
+.any-photo6 img, .any-photo7 img{
+  display: inline-block;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+  height: 100%;
+  /*border: solid 5px black; */
+}
+  
 
 #hearts {
   text-align: center; }
@@ -218,8 +278,11 @@ hr {
   padding-top: 45px; }
 
 .sings {
+  display: block;
   text-align: center;
-  padding-bottom: 60px; }
+  padding-bottom: 60px;
+  border: solid 5px black; 
+   }
 
 .any-sings {
   display: inline-block;
@@ -227,8 +290,22 @@ hr {
   padding-top: 30px;
   padding-right: 0px;
   color: white;
-  font-size: 120%;
-  text-align: center; }
+  font-size: 100%;
+  text-align: center; 
+  border: solid 5px black; 
+}
+
+  .any-sings img{
+
+    width: 130px;
+    height: 130px;
+  }
+
+  .size-number{
+    font-size: 75px;
+  }
+
+
 
 #forma {
   text-align: center;
